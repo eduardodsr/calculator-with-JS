@@ -1,6 +1,6 @@
 # Calculadora com JavaScript (JS)
 
-[![](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardods/)
+[![](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardodsr/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/eduardodsr/calculator-with-JS)
 ![GitHub top language](https://img.shields.io/github/languages/top/eduardodsr/calculator-with-JS)
 ![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/calculator-with-JS)
